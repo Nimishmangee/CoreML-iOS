@@ -23,7 +23,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     }
 
     @IBAction func cameraTapped(_ sender: UIBarButtonItem) {
-        
+        @objc interview;
     }
     
 }
